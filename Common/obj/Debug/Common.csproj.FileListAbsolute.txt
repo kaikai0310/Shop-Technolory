@@ -1,0 +1,6 @@
+G:\ASP MVC\MVC PROJECT\Common\bin\Debug\Common.dll
+G:\ASP MVC\MVC PROJECT\Common\bin\Debug\Common.pdb
+G:\ASP MVC\MVC PROJECT\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\ASP MVC\MVC PROJECT\Common\obj\Debug\Common.dll
+G:\ASP MVC\MVC PROJECT\Common\obj\Debug\Common.pdb
+G:\ASP MVC\MVC PROJECT\Common\obj\Debug\Common.csprojAssemblyReference.cache

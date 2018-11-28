@@ -1,0 +1,10 @@
+G:\ASP MVC\MVC PROJECT\StaticResources\bin\Debug\StaticResources.dll
+G:\ASP MVC\MVC PROJECT\StaticResources\bin\Debug\StaticResources.pdb
+G:\ASP MVC\MVC PROJECT\StaticResources\bin\Debug\en\StaticResources.resources.dll
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.Resource.resources
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.Resource.en.resources
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\en\StaticResources.resources.dll
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.dll
+G:\ASP MVC\MVC PROJECT\StaticResources\obj\Debug\StaticResources.pdb
